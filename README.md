@@ -1,6 +1,3 @@
-test jens
-
-
 # Alert Manager
 
 - **Authors**:		Simon Balz <simon@balz.me>, Mika Borner <mika.borner@gmail.com>, Datapunctum GmbH
